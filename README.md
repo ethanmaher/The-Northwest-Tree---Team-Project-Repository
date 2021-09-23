@@ -1,7 +1,7 @@
 # The-Northwest-Tree---Team-Project-Repository
 
-Scrum Master: 
+Scrum Master: Spencer Augenstein
 
-Product Owner: 
+Product Owner: Ethan Maher
 
 Developer: Sebastian Johnson 
